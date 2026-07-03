@@ -1,4 +1,5 @@
 # - 픽셀몬
 
 # 지도
-<img width="8704" height="7120" alt="map" src="https://github.com/user-attachments/assets/33a64e59-56c2-4959-a760-d2477be7035e" />
+
+<img width="3965" height="3747" alt="map (1)" src="https://github.com/user-attachments/assets/ab321ffe-30ad-466c-bba6-3dc950896d20" />
